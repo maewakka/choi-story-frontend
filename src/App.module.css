@@ -1,0 +1,6 @@
+.appContainer {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-color: #1c1c1e; /* MacOS 바탕화면 느낌의 다크 그레이 색상 */
+}

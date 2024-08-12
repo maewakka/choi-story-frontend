@@ -1,0 +1,9 @@
+.desktopContainer {
+    position: relative; /* 자식 요소들 (예: StatusBar)이 영향을 받지 않도록 상대 위치로 설정 */
+    flex-grow: 1;
+    width: 100vw; /* 전체 화면 너비 */
+    height: 100vh; /* 전체 화면 높이 */
+    background-size: cover;
+    background-position: center;
+  }
+  
